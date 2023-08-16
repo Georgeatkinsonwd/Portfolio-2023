@@ -30,3 +30,12 @@
     color: #27272a;
     padding-top: 20px;
 }
+
+
+
+@media screen and (max-width: 900px) {
+    .projectsContainer{
+        flex-wrap:wrap;
+        
+    }
+  }

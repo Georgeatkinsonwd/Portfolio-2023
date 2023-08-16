@@ -9,3 +9,13 @@
     display: flex;
     flex-direction: column;
 }
+
+@media screen and (max-width: 900px) {
+    .projectContainer{
+        width:100%;
+    }
+
+    .langIcon{
+        padding-top:50px;
+    }
+  }
