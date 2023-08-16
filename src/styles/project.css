@@ -1,0 +1,32 @@
+
+.projectsContainer{
+    height:100%;
+    display:flex;
+    justify-content: space-between;
+    align-items: stretch;
+    padding-top: 150px;
+    text-align: center;
+    width:100%;
+}
+
+.projectTitle{
+    font-size:24px;
+}
+
+.projectSummary{
+    color: #acacb4;
+    font-weight: 200;
+    text-align: center;
+    justify-content: center;
+    width:70%;
+    font-size:18px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    line-height:30px;
+}
+
+.projectGh {
+    font-size:40px;
+    color: #27272a;
+    padding-top: 20px;
+}

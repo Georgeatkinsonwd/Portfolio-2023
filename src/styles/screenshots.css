@@ -1,0 +1,16 @@
+.screenshots {
+    display:flex;
+    flex-wrap: wrap;
+}
+
+
+.screenshotImg {
+    width:50%;
+    height:50%;
+}
+
+#screenshotsTitle{
+    font-size:30px;
+    text-decoration: underline;
+    padding-top:40px;
+}
