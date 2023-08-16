@@ -13,16 +13,16 @@
 #aboutTitle{
     font-size:45px;
     font-weight:700;
-    width:70%;
+    width:90%;
 }
 
 .aboutText{
     color: #acacb4;
-    font-size: 24px;
+    font-size: 18px;
     line-height: 40px;
     margin-top: 25px;
     padding-top: 10px;
-    width:70%;
+    width:85%;
     font-weight:200;
 }
 
@@ -32,10 +32,15 @@
     align-items:center;
 }
 
-.aboutImgContainer{
-    width:370px;
-    height:370px;
+.aboutImgCont{
+    width:100%;
+    height:100%;
     
+}
+
+.aboutImg{
+    height:375px;
+    width:500px;
 }
 
 .aboutImgWrapper{

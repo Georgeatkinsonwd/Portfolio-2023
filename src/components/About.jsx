@@ -21,7 +21,7 @@ function About() {
         <div className="aboutRight">
             <div className="aboutImgCont">
             <div className="aboutImgWrapper">
-            <img src={office} alt="office" />
+            <img className="aboutImg" src={office} alt="office" />
             </div>
             </div>
 
